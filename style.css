@@ -1,0 +1,32 @@
+.header{
+ color: red;
+ background-color: pink;
+ border: solid;
+ min-height: 100px;
+}
+.wrapper{
+	overflow: hidden;
+}
+.blog{
+	min-height: 150px;
+	width:60%;
+	float: left;
+	color: blue;
+	border: solid;
+	background-color: pink;
+}
+.contract{
+	min-height: 150px;
+	width:39.33%;
+	float: right;
+	color: red;
+	background-color: pink;
+	border:solid;
+}
+.footer{
+	min-height: 100px;
+	color: red;
+	background-color: pink;
+	border: solid;
+	border-color: green;
+}
